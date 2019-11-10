@@ -1,5 +1,3 @@
-# tianming_chen
-
 ## Project setup
 ```
 npm install
